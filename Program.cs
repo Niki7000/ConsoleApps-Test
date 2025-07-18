@@ -12,6 +12,12 @@ namespace Test
 		{
 			Console.WriteLine("Welcome everyone!");
 			Console.WriteLine("This is a test application.");
+			Console.WriteLine("Welcome everyone!");
+			Console.WriteLine("This is a test application.");
+			Console.WriteLine("Welcome everyone!");
+			Console.WriteLine("This is a test application.");
+			Console.WriteLine("Welcome everyone!");
+			Console.WriteLine("This is a test application.");
 		}
 	}
 }
